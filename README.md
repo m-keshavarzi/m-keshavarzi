@@ -1,16 +1,90 @@
-## Hi there 👋
+<!-- Header Banner -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&lines=Hello+World!+🌎;I'm+a+Python+Developer+🐍;Backend+Engineer+⚙️;Automation+%26+Data+Lover+📊" />
+</p>
 
-<!--
-**m-keshavarzi/m-keshavarzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+<!-- Profile Title -->
+<h1 align="center">💫 Welcome to My GitHub Profile 💫</h1>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <b>Python Developer | Backend Engineer | Automation Specialist</b>
+</p>
+
+---
+
+## 🧑‍💻 درباره من
+من یک توسعه‌دهنده پایتون هستم که عاشق ساختن سیستم‌های کاربردی، مقیاس‌پذیر و حرفه‌ای هستم.  
+به معماری نرم‌افزار، طراحی API، اتوماسیون و دیتا علاقه دارم و همیشه دنبال یادگیری ابزارهای جدید هستم.
+
+---
+
+## 🚀 مهارت‌ها و تکنولوژی‌ها
+
+### 🐍 زبان‌ها  
+<p>
+  <img src="https://skillicons.dev/icons?i=python,bash" />
+</p>
+
+### ⚙️ فریم‌ورک‌ها و ابزارها  
+<p>
+  <img src="https://skillicons.dev/icons?i=django,flask,fastapi,git,github,docker,linux,redis" />
+</p>
+
+### 🗄️ دیتابیس‌ها  
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite" />
+</p>
+
+---
+
+## 🧩 پروژه‌های منتخب
+
+### 🔥 **Web Scraping System**
+سیستمی قدرتمند برای استخراج، پاک‌سازی و ذخیره‌سازی داده از چندین وبسایت  
+**Technologies:** Scrapy, PostgreSQL, Docker
+
+---
+
+### 🔥 **Django REST API**
+طراحی API کامل شامل Authentication، Role Management و مدیریت محصول  
+**Technologies:** Django REST Framework, JWT
+
+---
+
+### 🔥 **Python Automation Pack**
+مجموعه اسکریپت‌ها برای مدیریت خودکار فایل‌ها، ارسال ایمیل، پردازش دیتا  
+**Technologies:** Python, Cron Jobs, Bash
+
+---
+
+## 📊 آمار گیت‌هاب من
+
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🏆 جوایز و دستاوردها (اختیاری)
+- ✔️ ساخت چندین پروژه حرفه‌ای پایتون  
+- ✔️ تجربه طراحی معماری میکروسرویس  
+- ✔️ توسعه APIهای امن و مقیاس‌پذیر  
+
+---
+
+## 🤝 ارتباط با من  
+<p align="center">
+  <a href="mailto:your.email@example.com"><img src="https://skillicons.dev/icons?i=gmail" width="50"/></a>
+  &nbsp;&nbsp;
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://skillicons.dev/icons?i=linkedin" width="50"/></a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/YOUR_USERNAME"><img src="https://skillicons.dev/icons?i=github" width="50"/></a>
+</p>
+
+---
+
+## 🙌 تشکر از اینکه سر زدی!
+اگر پروژه‌ها برات جالب بود، ممنون می‌شم ⭐ بُزنی یا فالو کنی.  
