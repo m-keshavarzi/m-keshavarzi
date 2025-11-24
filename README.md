@@ -43,19 +43,7 @@
 
 ### 🔥 **Web Scraping System**
 سیستمی قدرتمند برای استخراج، پاک‌سازی و ذخیره‌سازی داده از چندین وبسایت  
-**Technologies:** Scrapy, PostgreSQL, Docker
-
----
-
-### 🔥 **Django REST API**
-طراحی API کامل شامل Authentication، Role Management و مدیریت محصول  
-**Technologies:** Django REST Framework, JWT
-
----
-
-### 🔥 **Python Automation Pack**
-مجموعه اسکریپت‌ها برای مدیریت خودکار فایل‌ها، ارسال ایمیل، پردازش دیتا  
-**Technologies:** Python, Cron Jobs, Bash
+**Technologies:** Scrapy
 
 ---
 
