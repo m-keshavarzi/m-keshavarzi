@@ -24,17 +24,17 @@
 
 ### 🐍 زبان‌ها  
 <p>
-  <img src="https://skillicons.dev/icons?i=python,bash" />
+  <img src="https://skillicons.dev/icons?i=python," />
 </p>
 
 ### ⚙️ فریم‌ورک‌ها و ابزارها  
 <p>
-  <img src="https://skillicons.dev/icons?i=django,flask,fastapi,git,github,docker,linux,redis" />
+  <img src="https://skillicons.dev/icons?i=git,github,linux" />
 </p>
 
 ### 🗄️ دیتابیس‌ها  
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite" />
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite" />
 </p>
 
 ---
