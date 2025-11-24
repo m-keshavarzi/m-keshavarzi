@@ -50,16 +50,23 @@
 
 ---
 
-## 🤝 ارتباط با من  
+#### 📫 Social Accounts | ارتباط با من
+
 <p align="center">
-  <a href="mailto:your.email@example.com"><img src="https://skillicons.dev/icons?i=gmail" width="50"/></a>
+  <a href="mailto:YOUR_EMAIL">
+    <img src="https://skillicons.dev/icons?i=gmail" width="55" />
+  </a>
   &nbsp;&nbsp;
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://skillicons.dev/icons?i=linkedin" width="50"/></a>
+  <a href="https://t.me/YOUR_TELEGRAM">
+    <img src="https://skillicons.dev/icons?i=telegram" width="55" />
+  </a>
   &nbsp;&nbsp;
-  <a href="https://github.com/YOUR_USERNAME"><img src="https://skillicons.dev/icons?i=github" width="50"/></a>
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="55" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/YOUR_GITHUB">
+    <img src="https://skillicons.dev/icons?i=github" width="55" />
+  </a>
 </p>
 
----
-
-## 🙌 تشکر از اینکه سر زدی!
-اگر پروژه‌ها برات جالب بود، ممنون می‌شم ⭐ بُزنی یا فالو کنی.  
