@@ -1,6 +1,6 @@
 <!-- Header Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&lines=Hello+World!+🌎;I'm+a+Python+Developer+🐍;Backend+Engineer+⚙️;Automation+%26+Data+Lover+📊" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&lines=Hello+World!+🌎;I'm+a+Python+Developer+🐍" />
 </p>
 
 ---
@@ -9,14 +9,14 @@
 <h1 align="center">💫 Welcome to My GitHub Profile 💫</h1>
 
 <p align="center">
-  <b>Python Developer | Backend Engineer | Automation Specialist</b>
+  <b>Python Developer </b>
 </p>
 
 ---
 
 ## 🧑‍💻 درباره من
 من یک توسعه‌دهنده پایتون هستم که عاشق ساختن سیستم‌های کاربردی، مقیاس‌پذیر و حرفه‌ای هستم.  
-به معماری نرم‌افزار، طراحی API، اتوماسیون و دیتا علاقه دارم و همیشه دنبال یادگیری ابزارهای جدید هستم.
+به  هوش مصنوعی و دنیای  دیتاو اتوماسیون علاقه بسیاری زیادی دارم .
 
 ---
 
