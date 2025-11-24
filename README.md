@@ -54,12 +54,6 @@
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
----
-
-## 🏆 جوایز و دستاوردها (اختیاری)
-- ✔️ ساخت چندین پروژه حرفه‌ای پایتون  
-- ✔️ تجربه طراحی معماری میکروسرویس  
-- ✔️ توسعه APIهای امن و مقیاس‌پذیر  
 
 ---
 
